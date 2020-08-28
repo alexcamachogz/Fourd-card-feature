@@ -1,3 +1,37 @@
+.header {
+  margin: 0 auto;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  text-align: center;
+  width: 300px;
+  color: #a3a5ae;
+}
+.header .header__title {
+  font-size: 22px;
+  font-weight: 300;
+  letter-spacing: 0.5px;
+}
+.header .header__subtitle {
+  color: #4c4e61;
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+.header .header__paragraph {
+  font-weight: 200;
+}
+@media screen and (min-width: 900px) {
+  .header {
+    width: 500px;
+    margin-bottom: 70px;
+  }
+  .header .header__title {
+    font-size: 34px;
+  }
+  .header .header__subtitle {
+    font-size: 36px;
+  }
+}
 * {
   margin: 0;
   padding: 0;
