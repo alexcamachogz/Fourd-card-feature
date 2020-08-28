@@ -1,6 +1,7 @@
 # Four Card Feature Section
 
-SHIELDS
+![](https://img.shields.io/github/stars/alexcamachogz/Fourd-card-feature?style=for-the-badge)
+![](https://img.shields.io/github/forks/alexcamachogz/Fourd-card-feature?style=for-the-badge)
 
 ## ✍🏻 Description
 This is a challenge from [Frontend-Mentor](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT).
