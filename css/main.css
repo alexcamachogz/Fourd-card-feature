@@ -80,6 +80,29 @@ main {
 .calculator {
   border-top: 5px solid #549ef2;
 }
+@media screen and (min-width: 1200px) {
+  main {
+    height: 560px;
+  }
+  .supervisor {
+    position: relative;
+    right: 350px;
+    top: 140px;
+  }
+  .team {
+    bottom: 280px;
+    position: relative;
+  }
+  .karma {
+    bottom: 280px;
+    position: relative;
+  }
+  .calculator {
+    bottom: 700px;
+    left: 350px;
+    position: relative;
+  }
+}
 * {
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
